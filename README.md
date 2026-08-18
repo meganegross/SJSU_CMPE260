@@ -1,0 +1,3 @@
+Meta-learning has revolutionized the field of reinforcement learning (RL) by remedying a key weakness of RL algorithms: the inability to adapt to new environments quickly without retraining. Meta-learning prioritizes quick adaptation via training on a distribution of tasks and teaching the agent how to learn. In order to better understand how this ideology works, we will implement a Multi-Task PPO, RL2, and MAML in MetaWorld environments. We will train on MetaWorld’s ML10’s training set, and validate on the ML10 validation set. Our focus is on comparing these algorithms and understanding the inner workings of them. 
+
+Authors: Megan Gross, Idris Al Ashmawi , Ashley Irawan, Vikasni Kalahasthi
